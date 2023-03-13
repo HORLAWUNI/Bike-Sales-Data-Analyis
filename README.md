@@ -26,7 +26,7 @@ The following skills were incorporated in this project;
 
 # Data Modelling
 No table model requirement since the dataset only contains one table
-![](Data Model.png)
+![](DataModel.png)
 
 # Data Source
 
@@ -38,6 +38,7 @@ The report consist of only one page housing;
 •	Product analysis
 
 •	Sales Trend
+![](
 
 
 # Recommendations
