@@ -38,7 +38,6 @@ The report consist of only one page housing;
 •	Product analysis
 
 •	Sales Trend
-![](
 
 
 # Recommendations
