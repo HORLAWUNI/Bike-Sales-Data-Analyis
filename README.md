@@ -26,6 +26,7 @@ The following skills were incorporated in this project;
 
 # Data Modelling
 No table model requirement since the dataset only contains one table
+
 ![](DataModel.png)
 
 # Data Source
@@ -38,6 +39,15 @@ The report consist of only one page housing;
 •	Product analysis
 
 •	Sales Trend
+
+#### You can interact with this report [here](https://app.powerbi.com/groups/me/reports/5d6b527d-7420-4261-95be-494ec3540493/ReportSection?redirectedFromSignup=1)
+-----
+
+![](ProductAnalyis.png)  
+
+----
+
+![](SalesTrend.png)
 
 
 # Recommendations
